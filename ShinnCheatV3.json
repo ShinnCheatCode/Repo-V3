@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.shinn.cheat",
+  "name": "Shinn Cheat",
+  "description": "Shinn Cheat Repository V3",
+  "accentColor": "#000000",
+  "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png",
+  "packages": [
+    {
+      "identifier": "com.shinn.aimbodyffth",
+      "name": "Aim Body FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Aim Body FFTH - AIM resource",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Aim%20Body%20FFTH.3105",
+      "sha256": "d77e2f190225dce968b3a536afb10a8fc9f0af0cf8519d7b9058a9cc095b55d4",
+      "size": 64428,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.aimchestffth",
+      "name": "Aim Chest FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Aim Chest FFTH - AIM resource",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Aim%20Chest%20FFTH.3105",
+      "sha256": "1be027e51ebcebd847390c30e06bdf58273503d09dc80668b1cbe24bee13c216",
+      "size": 64429,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.aimdragffth",
+      "name": "Aim Drag FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Aim Drag FFTH - AIM resource",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Aim%20Drag%20FFTH.3105",
+      "sha256": "7d8b712be650afe19ab41df51b917e5208c243e9815db29f29d6721b19de0698",
+      "size": 64428,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.aimffth",
+      "name": "Aim FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Aim FFTH - AIM resource",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Aim%20FFTH.3105",
+      "sha256": "e752a4f03a51054b93f99cf6fc4f2dda867fa95836568ba9c17a245e46c5ee48",
+      "size": 47593,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.aimmagicffth",
+      "name": "Aim Magic FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Aim Magic FFTH - AIM resource",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Aim%20Magic%20FFTH.3105",
+      "sha256": "aed0415db2d81dbb8ff30aabb97423013fde65bd60c82e5be816c91e20fdbb5a",
+      "size": 64429,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.aimneckffth",
+      "name": "Aim Neck FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Aim Neck FFTH - AIM resource",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Aim%20Neck%20FFTH.3105",
+      "sha256": "51e4e0a9f9bf673738ab1d1dbab29892a2ceae85fd8b45f200e77989909555ba",
+      "size": 64428,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.alokffthnew",
+      "name": "Alok FFTH New",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Alok FFTH New - Character resource",
+      "description": "Shinn Cheat Resource",
+      "category": "Character",
+      "tags": [
+        "Character",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Alok%20FFTH%20New.3105",
+      "sha256": "5a8ef0d97747516a4904d204710eea9d1274cd624c2627665d5bb7443f09f561",
+      "size": 2555973,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.alokffthv2",
+      "name": "Alok FFTH V2",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Alok FFTH V2 - Character resource",
+      "description": "Shinn Cheat Resource",
+      "category": "Character",
+      "tags": [
+        "Character",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Alok%20FFTH%20V2.3105",
+      "sha256": "f514749e5996fac89239c01120caf67ed9c147e044fa003d5f74d68622b28a62",
+      "size": 2555972,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.alokv1ffth",
+      "name": "Alok V1 FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Alok V1 FFTH - Character resource",
+      "description": "Shinn Cheat Resource",
+      "category": "Character",
+      "tags": [
+        "Character",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Alok%20V1%20FFTH.3105",
+      "sha256": "dd71d6dab6c40e08d15c7aa2cb1d95e176c743bb2d41c5ed709cfa61e0687773",
+      "size": 2555972,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.dimitriffth",
+      "name": "Dimitri FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Dimitri FFTH - Character resource",
+      "description": "Shinn Cheat Resource",
+      "category": "Character",
+      "tags": [
+        "Character",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Dimitri%20FFTH.3105",
+      "sha256": "3d682eb3374a7a308e235084c02d8bee3d743fcd885cfba813da640a71b5dd35",
+      "size": 2618038,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.isnisffth",
+      "name": "Isnis FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Isnis FFTH - Character resource",
+      "description": "Shinn Cheat Resource",
+      "category": "Character",
+      "tags": [
+        "Character",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Isnis%20FFTH.3105",
+      "sha256": "1add32100937561cba1515da1cc56c107110d86808e6bdf8e3e2c93164a51651",
+      "size": 2262940,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.tvc12alokffth",
+      "name": "TVC 1-2 Alok FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "TVC 1-2 Alok FFTH - Character resource",
+      "description": "Shinn Cheat Resource",
+      "category": "Character",
+      "tags": [
+        "Character",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/TVC%201-2%20Alok%20FFTH.3105",
+      "sha256": "6866bbb49948e40526e5d2f0357275e6569bac7215624252bc5c3ea5ebe200cc",
+      "size": 2555979,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    },
+    {
+      "identifier": "com.shinn.chamssuungnewffth",
+      "name": "Chams Su╠üng New FFTH",
+      "author": "Shinn Cheat",
+      "version": "5.0.6",
+      "summary": "Chams Su╠üng New FFTH - Visual resource",
+      "description": "Shinn Cheat Resource",
+      "category": "Visual",
+      "tags": [
+        "Visual",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/Chams%20Su╠üng%20New%20FFTH.3105",
+      "sha256": "518231facc90462a84bd31a8812a6f798b36f20f9e56c162fa7fd67d590610f8",
+      "size": 1487727,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "100.0.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/Repo-V3/main/8C041965-C8C4-4AD3-AF90-7D53038DD43B.png"
+    }
+  ]
+}
